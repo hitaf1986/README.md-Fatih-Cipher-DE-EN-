@@ -125,3 +125,58 @@ a bridge between structure and meaning.
 Der Fatih‑Cipher ist mehr als ein Algorithmus.  
 Er ist ein konzeptioneller Raum —  
 eine Brücke zwischen Struktur und Bedeutung.
+
+---
+
+## 🌐 Live‑Website (GitHub Pages)
+
+Nach Aktivierung von GitHub Pages ist die Website erreichbar unter:
+
+hitaf1986
+
+---
+
+## 🛠️ Lokale Nutzung
+
+Einfach die Datei:
+index.html
+
+im Browser öffnen.
+
+---
+
+## 🤝 Mitwirken
+
+Beiträge, Ideen und Erweiterungen sind willkommen —  
+insbesondere:
+
+- experimentelle Kryptografie‑Konzepte  
+- alternative Form/Index‑Zuordnungen  
+- Visualisierungen  
+- Implementierungen in verschiedenen Programmiersprachen  
+
+Pull Requests und Diskussionen sind ausdrücklich erwünscht.
+
+---
+
+## 📜 Lizenz
+
+Dieses Projekt steht unter der **MIT‑Lizenz**.
+
+---
+
+## ✨ Autor
+
+**Fatih Şentürk**  
+Ersteller des Fatih‑Ciphers  
+Crailsheim, Deutschland
+
+---
+
+## 🔮 Vision
+
+Der Fatih‑Cipher ist mehr als ein Algorithmus.  
+Er ist ein konzeptioneller Raum —  
+eine Brücke zwischen Struktur und Bedeutung,  
+zwischen Technik und Idee,  
+zwischen Gegenwart und Zukunft.
